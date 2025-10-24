@@ -1,0 +1,4 @@
+[submodule "vendor/docapi"]
+	path = vendor/docapi
+	url = https://github.com/DCGM/DocAPI.git
+	branch = main
